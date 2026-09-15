@@ -27,7 +27,7 @@
 
 | Add Expense | Swipe to Delete |
 |---|---|
-| <img src="Screenshots/add-expense.png" width="220" alt="Add expense form"> | <img src="Screenshots/swipe-delete.png" width="220" alt="Swipe to delete an expense"> |
+| <img src="add-expense.png" width="220" alt="Add expense form"> | <img src="swipe-delete.png" width="220" alt="Swipe to delete an expense"> |
 
 </div>
 
